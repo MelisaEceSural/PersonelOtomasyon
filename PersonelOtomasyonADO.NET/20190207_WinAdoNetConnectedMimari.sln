@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20190207_WinAdoNetConnectedMimari", "20190207_WinAdoNetConnectedMimari\20190207_WinAdoNetConnectedMimari.csproj", "{04E00F1D-5D62-4CB1-94AB-031EB8B62450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E00F1D-5D62-4CB1-94AB-031EB8B62450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E00F1D-5D62-4CB1-94AB-031EB8B62450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E00F1D-5D62-4CB1-94AB-031EB8B62450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E00F1D-5D62-4CB1-94AB-031EB8B62450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8161AA06-08B1-47ED-B7EA-910A3C2505A4}
+	EndGlobalSection
+EndGlobal
